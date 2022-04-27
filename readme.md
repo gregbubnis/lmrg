@@ -30,3 +30,7 @@ Results are exported to csv files (```/results``` folder) and the parameters use
 <img src="/results/img_nuclei_1.png" width="800" title="hover text">
 <figcaption align = "center">(above) Example showing raw data (left) and segmentation masks (right) for one of the "Nuclei in 3D cell culture" image stacks.</figcaption>
 </figure>
+
+## Acknowledgement
+The tutorial by Juan Nunez-Iglesias & Nicholas Sofroniew, found [here](https://jni.github.io/i2k-skimage-napari/lectures/2_segmentation_and_regionprops.html), was especially helpful!
+
