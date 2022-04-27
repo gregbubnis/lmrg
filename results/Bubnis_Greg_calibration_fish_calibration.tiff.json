@@ -1,0 +1,14 @@
+{
+  "myname": "Bubnis_Greg_calibration_fish",
+  "voxel_size": [
+    1,
+    1,
+    1
+  ],
+  "template_std": [
+    3,
+    3,
+    3
+  ],
+  "template_threshold": 0.3
+}

@@ -1,0 +1,14 @@
+{
+  "myname": "Bubnis_Greg",
+  "voxel_size": [
+    0.2,
+    0.162,
+    0.162
+  ],
+  "template_std": [
+    0.5,
+    0.7,
+    0.7
+  ],
+  "template_threshold": 0.35
+}

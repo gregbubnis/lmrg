@@ -1,0 +1,19 @@
+{
+  "myname": "Bubnis_Greg",
+  "voxel_size": [
+    0.2,
+    0.124,
+    0.124
+  ],
+  "template_std": [
+    16,
+    24,
+    24
+  ],
+  "local_otsu_kernel": [
+    2,
+    30,
+    30
+  ],
+  "template_threshold": 0.4
+}

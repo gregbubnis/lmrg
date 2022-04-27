@@ -1,0 +1,19 @@
+{
+  "myname": "Bubnis_Greg_calibration_nuclei",
+  "voxel_size": [
+    1,
+    1,
+    1
+  ],
+  "template_std": [
+    7,
+    7,
+    7
+  ],
+  "local_otsu_kernel": [
+    2,
+    5,
+    5
+  ],
+  "template_threshold": 0.3
+}
